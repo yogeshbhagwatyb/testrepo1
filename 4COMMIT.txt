@@ -1,0 +1,32 @@
+default:
+
+Description: The default folder is often present and may contain general binary data files.
+Purpose: It serves as a default storage location for large binary files that don't belong to specific categories or projects.
+cad_data:
+
+Description: This folder may contain binary data files related to Computer-Aided Design (CAD) models.
+Purpose: Stores 3D CAD models and associated files, enabling efficient storage and retrieval of design data.
+documents:
+
+Description: The documents folder might include binary data files related to documents, such as PDFs, Word documents, and other file types.
+Purpose: Stores binary files associated with documents managed in Teamcenter, facilitating document management processes.
+images:
+
+Description: The images folder may contain binary data files related to images and graphics.
+Purpose: Stores image files used in documentation, presentations, and other visual elements within Teamcenter.
+simulation_results:
+
+Description: This folder could include binary data files related to simulation results.
+Purpose: Stores files generated from simulation activities, allowing for efficient storage and retrieval of simulation data.
+projects:
+
+Description: The projects folder might be used to organize binary data files based on specific projects or categories.
+Purpose: Supports the organization and management of large binary files according to projects or specific criteria.
+custom_folders:
+
+Description: Custom folders or directories may be created based on the organization's specific needs and configurations.
+Purpose: Provides flexibility for organizations to organize binary data in a way that aligns with their business processes and requirements.
+temp:
+
+Description: A temporary folder used for storing temporary files during various operations.
+Purpose: Temporary storage for files generated or processed during certain Teamcenter activities related to binary data.
